@@ -258,7 +258,7 @@ Please include:
 
 ## 📜 License
 
-This project is developed for educational and learning purposes.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
